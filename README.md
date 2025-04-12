@@ -23,6 +23,7 @@ Bu-zi is a lightweight, modular Python application that:
 ---
 
 🎯 Use Cases
+
 🤖 Self-driving car pothole response systems
 
 🚜 Automated terrain analysis robots
