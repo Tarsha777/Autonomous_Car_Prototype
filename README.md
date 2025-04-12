@@ -32,3 +32,16 @@ Bu-zi is a lightweight, modular Python application that:
 
 🧪 Embedded systems testing & learning
 
+
+
+
+
+📬 Contact Me
+
+💼 Portfolio:https://tarsha-portfolio.vercel.app/
+
+📧 Email: ptst2005@gmail.com
+
+🔗 LinkedIn: linkedin.com/in/tarsha-ponakala
+
+🐙 GitHub: github.com/Tarsha777
