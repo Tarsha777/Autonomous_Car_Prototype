@@ -79,7 +79,7 @@ http://<Your_Raspberry_Pi_IP>
 
 ## 🎥 Demo Video
 
-\https://drive.google.com/file/d/1AWYnlJx0fxijpKkkrv9x93pl-9RD2Uzw/view?usp=drive_link
+https://drive.google.com/file/d/1KMR6CaVmjxM7jrvvaXdzsDBnqUM_Cvvn/view?usp=sharing
 
 ---
 
