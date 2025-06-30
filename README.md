@@ -18,7 +18,7 @@ A smart self-driving car prototype combining **Lane Detection**, **Traffic Signa
 
 ## 💻 Software & Tech Stack
 
-- **Python 3.x**
+- **Python 3.13**
 - **Flask** — Web Dashboard & Streaming
 - **OpenCV** — Computer Vision (Lane & Traffic Light Detection)
 - **Numpy** — Calculations & Processing
