@@ -7,6 +7,7 @@
 | **Ultrasonic Sensors**        | HC-SR04                          | 2–4      | Obstacle detection, proximity sensing   |
 | **Servo Motor**               | SG90 or MG90S                    | 1–2      | Steering control / sensor movement      |
 | **Chassis**                   | 4-Wheel Car Body                 | 1        | Physical frame of the car               |
-| **Battery Pack**              | 12V Lithium or similar           | 1        | Power source for motors and electronics |
-| **Jumper Wires & Connectors** | Male-Female/Male-Male            | Multiple | Wiring and connections                  |
-| **Breadboard**                | Standard size                    | 1        | Prototyping circuit connections         |
+| **Battery Pack**              | 12V Lithium or similar           | 2        | Power source for motors                 |
+| **Jumper Wires & Connectors** | Male-Female/Male-Male            | Multiple | Wiring                                  |
+| **Breadboard**                | Standard size                    | 1        | for circuit connections                     |
+| **Web-Camera**                | 720p or grater with a wide vision| 1        | For acessing computer vision            |
