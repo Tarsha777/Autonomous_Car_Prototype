@@ -70,8 +70,11 @@ http://<Your_Raspberry_Pi_IP>
 ## 🎯 Known Limitations
 
 ⚠️ Lane detection optimized for controlled indoor track (Black chart with white lines)
+
 ⚠️ Basic color-based traffic light detection, sensitive to lighting conditions
+
 ⚠️ Obstacle detection range limited to 20cm with single ultrasonic sensor
+
 
 ---
 
@@ -93,12 +96,19 @@ https://drive.google.com/file/d/1KMR6CaVmjxM7jrvvaXdzsDBnqUM_Cvvn/view?usp=shari
 ## 📁 Project Structure
 
 ├── main.py               # Main control logic
+
 ├── lane_detection.py     # Lane following logic
+
 ├── traffic_light.py      # Traffic signal detection
+
 ├── obstacle_avoidance.py # Ultrasonic obstacle handling
+
 ├── dashboard/            # Web dashboard files (Flask app, HTML, CSS)
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md             # Project details
+
 
 ---
 
