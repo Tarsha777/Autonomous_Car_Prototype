@@ -35,12 +35,19 @@ pip install -r requirements.txt
 ## ⚡ Key Features
 
 ✅ **Lane Detection** — Follows lane boundaries on black surface with white lines
+
 ✅ **Traffic Signal Recognition** — Stops at Red light, Moves on Green
+
 ✅ **Obstacle Avoidance** — Ultrasonic sensor prevents collisions (Stops if object < 20cm)
+
 ✅ **Real-Time Web Dashboard** —
+
  📷 Live camera feed
+ 
  📊 Car status (Obstacle distance, Traffic signal state)
+ 
  🌐 Accessible on browser within the same network
+ 
 
 **Dashboard Access Example:**
 
@@ -63,8 +70,11 @@ http://<Your_Raspberry_Pi_IP>
 ## 🎯 Known Limitations
 
 ⚠️ Lane detection optimized for controlled indoor track (Black chart with white lines)
+
 ⚠️ Basic color-based traffic light detection, sensitive to lighting conditions
+
 ⚠️ Obstacle detection range limited to 20cm with single ultrasonic sensor
+
 
 ---
 
@@ -86,12 +96,19 @@ https://drive.google.com/file/d/1KMR6CaVmjxM7jrvvaXdzsDBnqUM_Cvvn/view?usp=shari
 ## 📁 Project Structure
 
 ├── main.py               # Main control logic
+
 ├── lane_detection.py     # Lane following logic
+
 ├── traffic_light.py      # Traffic signal detection
+
 ├── obstacle_avoidance.py # Ultrasonic obstacle handling
+
 ├── dashboard/            # Web dashboard files (Flask app, HTML, CSS)
+
 ├── requirements.txt      # Python dependencies
+
 └── README.md             # Project details
+
 
 ---
 
