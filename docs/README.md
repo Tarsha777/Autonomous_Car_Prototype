@@ -35,12 +35,19 @@ pip install -r requirements.txt
 ## ⚡ Key Features
 
 ✅ **Lane Detection** — Follows lane boundaries on black surface with white lines
+
 ✅ **Traffic Signal Recognition** — Stops at Red light, Moves on Green
+
 ✅ **Obstacle Avoidance** — Ultrasonic sensor prevents collisions (Stops if object < 20cm)
+
 ✅ **Real-Time Web Dashboard** —
+
  📷 Live camera feed
+ 
  📊 Car status (Obstacle distance, Traffic signal state)
+ 
  🌐 Accessible on browser within the same network
+ 
 
 **Dashboard Access Example:**
 
